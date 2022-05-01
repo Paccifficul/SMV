@@ -43,13 +43,13 @@ body {
 }
 
 .more {
-    border-radius: 15%;
+    border-radius: 10%;
     margin: 10px;
     background-color: transparent;
     border-color: #fff;
     border-width: 3px;  
     text-align: center;
     font-family: 'Rubik', sans-serif;
-    font-size: medium;
+    font-size: large;
     color: #fff;
 }
